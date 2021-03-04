@@ -18,5 +18,5 @@ Example of diffusion on a graph:
 
 A depiction of how it works:
 ![how-it-works1](https://github.com/kushasareen/oligo/blob/main/how-it-works-1.PNG)
-![how-it-works2](https://github.com/kushasareen/oligo/blob/main/how-it-works-2.PNG))
-![how-it-works3](https://github.com/kushasareen/oligo/blob/main/how-it-works-3.PNG))
+![how-it-works2](https://github.com/kushasareen/oligo/blob/main/how-it-works-2.PNG)
+![how-it-works3](https://github.com/kushasareen/oligo/blob/main/how-it-works-3.PNG)
