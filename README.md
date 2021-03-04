@@ -8,7 +8,7 @@ K: OMG HOW DID YOU KNOW?
 
 This package enwraps a computationally efficient algorithm that converts an arbitrary graph structure with lengths assigned to its edges to a second deterivative matrix, encoding the connectivity of numerous graph comparments. This allows you to take a single PDE (or potentially multiple coupled PDEs) and convert them to many coupled ODEs that can be solved numerically.
 
-So far, I've uploaded some code that shows diffusion on a graph, although I'm building this for my mathematical physiology project where I model calicum flow in oligodendrocyte (bing branchy type cells important for learning). I'll add my code here when I'm finished my project to show a more complex use for the algorithm and make the framework more generalizable to different kinds of problems.
+So far, I've uploaded some code that shows diffusion on a graph, although I'm building this for my mathematical physiology project where I model calicum flow in oligodendrocytes (big branchy type cells important for learning). I'll add my code here when I'm finished my project to show a more complex use for the algorithm and make the framework more generalizable to different kinds of problems.
 
 Potential appplications in neural modelling, network flow, fluid transport, traffic flow and more!
 
