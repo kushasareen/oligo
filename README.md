@@ -14,8 +14,9 @@ Potential appplications in neural modelling, network flow, fluid transport, traf
 
 Example of diffusion on a graph:
 
-![graph-diff-1]()
-![graph-diff-2]()
+![graph-diff-1](https://github.com/kushasareen/oligo/blob/main/graph-diff1.PNG)
 
 A depiction of how it works:
-![how-it-works]()
+![how-it-works1](https://github.com/kushasareen/oligo/blob/main/how-it-works-1.PNG)
+![how-it-works2](https://github.com/kushasareen/oligo/blob/main/how-it-works-2.PNG))
+![how-it-works3](https://github.com/kushasareen/oligo/blob/main/how-it-works-3.PNG))
