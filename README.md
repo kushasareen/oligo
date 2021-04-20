@@ -4,7 +4,7 @@ K: Everyone knows how to solve PDEs in n-dimensional Euclidean space. Boring... 
 
 You: Wait, you mean like on the edges on a graph?
 
-K: OMG HOW DID YOU KNOW?
+K: -_-
 
 This package enwraps an original computationally efficient algorithm that converts an arbitrary graph structure with lengths assigned to its edges to a second deterivative matrix, encoding the connectivity of numerous graph comparments. This allows you to take a single PDE (or potentially multiple coupled PDEs) and convert them to many coupled ODEs that can be solved numerically.
 
