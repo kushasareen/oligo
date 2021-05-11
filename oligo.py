@@ -4,7 +4,7 @@ To Do:
 	- try sampling branches from sholl analysis
 	- test with graph connectivity metrics
 	- overhaul plotting framework with plotly
-	- check out PyDSTool for n oisy models
+	- check out PyDSTool for noisy models
 
 '''
 
